@@ -1,0 +1,193 @@
+{
+  "messages": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Greetings",
+        "What's up?",
+        "Howdy",
+        "Yo"
+      ],
+      "responses": [
+        "Hello, thanks for visiting. How can I be of assistance?",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Tata for now",
+        "Bye Bye",
+        "Talk you you later",
+        "I've got to get going",
+        "I must be going",
+        "Goodnight"
+      ],
+      "responses": [
+        "See you later, thanks for visiting!",
+        "Have a nice day!",
+        "Bye. Come back again soon!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks a lot",
+        "Many thanks",
+        "Thanks a bunch",
+        "Thank you for everything",
+        "You saved my day",
+        "I'm so grateful",
+        "Thanks a million",
+        "You're great",
+        "I owe you one",
+        "This means a lot to me",
+        "You are the best"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure."
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "What can i buy from you?",
+        "Do you sell books?",
+        "What service do you provide?",
+        "What do you do?",
+        "What is your purpose?",
+        "Why are you here?",
+        "Can I buy books here?",
+        "Can I buy ebooks here?",
+        "Can I buy books from you?",
+        "Can I buy ebooks from you?",
+        "Do you sell books?",
+        "DO you sell ebooks?",
+        "What are you selling?",
+        "What are you selling today?"
+      ],
+      "responses": [
+        "We sell hardcover books and ebooks.",
+        "We are currently selling hardcover books and ebooks."
+      ]
+    },
+        {
+      "tag": "favorites",
+      "patterns": [
+        "What is your favorite?",
+        "What book is your favorite?",
+        "What ebook is your favorite?",
+        "What would you recommend?",
+        "What book would you recommend?",
+        "What ebook would you recommend?",
+        "What should I buy?",
+        "What book should I buy?",
+        "What ebook should I buy?",
+        "What is your top seller?",
+        "What is your top selling book?",
+        "What is your top selling ebook?",
+        "What is your best seller?",
+        "What is your best selling book?",
+        "What is your best selling ebook?",
+        "What is today's deal?",
+        "What has the best rating?",
+        "What has the highest rated book you sell?",
+        "What has the highest rated ebook you sell?",
+        "What is popular?",
+        "What is the most popular book?",
+        "What is the most popular ebook?"
+      ],
+      "responses": [
+        "I would recommend \"Greenlights\" by Matthew McConaughey.",
+        "I would recommend \"A Promised Land\" by Barack Obama.",
+        "I would recommend \"Atomic Habits\" by James Clear."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you take debit?",
+        "Do you take credit?",
+        "Do you take cash?",
+        "Is VISA an option?",
+        "Is Mastercard an option?",
+        "Is Paypal an option?",
+        "Is Apply Pay an option?",
+        "Is Google Pay an option?",
+        "Do you accept VISA?",
+        "Do you accept Mastercard?",
+        "Do you accept Paypal?",
+        "Do you accept Apply Pay?",
+        "Do you accept Google Pay?",
+        "Can I pay with VISA?",
+        "Can I pay with Mastercard?",
+        "Can I pay with Paypal?",
+        "Can I pay with Apple Pay?",
+        "Can I pay with Google Pay?",
+        "Are you cash only?",
+        "Are you debit only?",
+        "Are you credit only?",
+        "Can I pay with cash?",
+        "Can I pay with debit?",
+        "Can I pay with credit?",
+        "Can I send a check?",
+        "How do I pay?",
+        "How do I purchase these books?",
+        "How do I purchase these ebooks?",
+        "How do I purchase these items?",
+        "How do I make a payment?",
+        "How do I make a purchase?",
+        "How do I buy these books?",
+        "How do I buy these ebooks?",
+        "How do I buy these items?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard, Paypal, Apple Pay, and Google Pay.",
+        "We accept most major credit and debit cards."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "When do I get my order?",
+        "When do I get my package?",
+        "When will I get my package?",
+        "When will I get my order?",
+        "When will I get my delivery?",
+        "When can I expect my order?",
+        "When can I expect my delivery?",
+        "When can I expect my package?",
+        "How long does it take for my order to get here?",
+        "How long does it take for my book to get here?",
+        "How long does it take for my delivery to get here?",
+        "How long does it take for my item to get here?"
+      ],
+      "responses": [
+        "Delivery usually takes 3-5 business days.",
+        "Shipping usually takes 3-5 business days."
+      ]
+    }
+  ]
+}
